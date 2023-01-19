@@ -19,4 +19,4 @@ That's it!!
 
 ### Summary
 
-This was a simple web page to provide UFO incidents to a community of interest.  There was not a lot of data however and if Dana wanted to really support the effort, find more data points.  Another limitation of the page was not have a 'Clear Filters' button.  Having this would provide a smoother experience for the visitor.  
+This was a 'simple' web page to provide UFO incidents to a community of interest.  The not so simple part was the coding.  Attempting to understand how to create the filter was anything but simple.  As for the content of the webpage, there was not a lot of data.  If Dana wanted to really support the effort, find more data points.  Another limitation of the page was not having a 'Clear Filters' button.  Having this would provide a smoother experience for the visitor.  
